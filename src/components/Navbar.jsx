@@ -65,7 +65,7 @@ function Navbar() {
             <a target="_blank" href="https://twitter.com/Cat's Lifee" className=" text-4xl">
               <FaTwitter fill="#000" />
             </a>
-            <a target="_blank" href="https://t.me/Cat's Lifeso" className=" text-4xl">
+            <a target="_blank" href="https://t.me/catslifeso" className=" text-4xl">
               <FaTelegram fill="#000" />
             </a>
           </div>
