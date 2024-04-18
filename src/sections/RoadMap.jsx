@@ -13,12 +13,7 @@ function RoadMap() {
         <h2 className="font-groot-one text-5xl my-2 text-[#000000] text-center font-bold relative z-30">
          Our  Roadmap
         </h2>
-        <img
-          src="images/bran.png"
-          alt=""
-          className=" mx-auto h-[100px] -mt-12 relative z-10"
-        />
-
+     
   
 
         <div className="flex justify-between flex-col sm:flex-row gap-5">

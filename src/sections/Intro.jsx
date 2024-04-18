@@ -8,11 +8,7 @@ const Intro = () => {
         <h2 className="font-groot-one text-5xl my-2 text-[#000000] text-center font-bold relative z-30">
           About Us
         </h2>
-        <img
-          src="images/bran.png"
-          alt=""
-          className=" mx-auto h-[100px] -mt-12 relative z-10"
-        />
+    
 
         <div className="  px-4  py-2 flex justify-between flex-col sm:flex-row items-center ">
           <div className=" w-full sm:w-[500px]">

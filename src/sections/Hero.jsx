@@ -10,7 +10,7 @@ function Hero() {
             <div className=" w-full">
               <div>
                 <img
-                  src="images/hero.png"
+                  src="images/hero2.png"
                   alt=""
                   className=" mx-auto floating"
                 />
@@ -18,16 +18,16 @@ function Hero() {
             </div>
             <div className=" w-full hidden sm:block">
               <div>
-                <img src="images/hero3.png" alt="" className=" mx-auto " />
+                <img src="images/hero.png" alt="" className=" mx-auto h-[300px] " />
               </div>
             </div>
 
             <div className=" w-full hidden sm:block">
               <div>
                 <img
-                  src="images/hero2.png"
+                  src="images/hero3.png"
                   alt=""
-                  className=" mx-auto floating"
+                  className=" mx-auto floating h-[300px]"
                 />
               </div>
             </div>
@@ -49,7 +49,7 @@ function Hero() {
           <a
             href="https://t.me/Cat's Lifeso"
             target="_blank"
-            className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#224609] shadow-lg shadow-black/40 text-white  font-bold  border-[#68c513] border-2"
+            className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#ff8ba5] shadow-lg shadow-black/40 text-white  font-bold  border-[#68c513] border-2"
           >
             join telegram
           </a>
@@ -57,7 +57,7 @@ function Hero() {
           <a
             href="https://www.dextools.io/app/en/solana/pair-explorer/4RWrhM81MtAEedgZw51EnUeJWXJyfdYWXZ3XpYHHaomc?t=1710748472452"
             target="_blank"
-            className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#224609] shadow-lg shadow-black/40 text-white  font-bold  border-[#68c513] border-2"
+            className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#ff8ba5] shadow-lg shadow-black/40 text-white  font-bold  border-[#68c513] border-2"
           >
             DEXTOOLS
           </a>
