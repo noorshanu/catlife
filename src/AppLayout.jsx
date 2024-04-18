@@ -27,9 +27,9 @@ function AppLayout() {
         {/* <div className=" bg-[#224609]">
         <MemeCards />
         </div> */}
-        <div>
+        {/* <div>
           <RoadMap/>
-        </div>
+        </div> */}
         {/* <div>
           <Partner />
         </div> */}
