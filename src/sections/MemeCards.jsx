@@ -14,18 +14,18 @@ function MemeCards() {
       
         <div className=" w-full">
             <p className=" font-groot-one text-xl sm:text-3xl text-white font-semibold  py-2">
-            DinoDoge isn't your average meme coin - he's the next viral meme! 
+            Cat's Life isn't your average meme coin - he's the next viral meme! 
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-one text-white  font-medium">
-              1. DinoDoge Game: Adventure awaits! Explore, collect, and have a blast in our dino-filled jungle!
+              1. Cat's Life Game: Adventure awaits! Explore, collect, and have a blast in our dino-filled jungle!
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one  text-white font-medium">
-              2. DinoDoge Pet Store: Adopt your virtual pet today! Find the perfect furry friend in our sanctuary.
+              2. Cat's Life Pet Store: Adopt your virtual pet today! Find the perfect furry friend in our sanctuary.
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one text-white font-medium">
-              3. Staking: Earn rewards effortlessly! Support DinoDoge and hodl for rewards.
+              3. Staking: Earn rewards effortlessly! Support Cat's Life and hodl for rewards.
 
             </h1>
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one text-white font-medium">

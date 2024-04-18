@@ -11,13 +11,13 @@ function Navbar() {
       <div className="container-wrapper flex items-center justify-between relative">
         <div className=" flex items-center gap-2">
           <img
-            src="/images/hero2.png"
+            src="/images/logo.png"
             className="max-w-[7rem] w-full rounded-full"
             alt=""
           />
 
           <p className=" text-3xl font-bold font-groot-one text-[#ffffff] sm:text-[#000]">
-            DinoDoge
+            Cat's Life
           </p>
         </div>
 
@@ -62,10 +62,10 @@ function Navbar() {
 
         <div className="flex items-center space-x-6">
           <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-            <a target="_blank" href="https://twitter.com/DinoDogee" className=" text-4xl">
+            <a target="_blank" href="https://twitter.com/Cat's Lifee" className=" text-4xl">
               <FaTwitter fill="#000" />
             </a>
-            <a target="_blank" href="https://t.me/dinodogeso" className=" text-4xl">
+            <a target="_blank" href="https://t.me/Cat's Lifeso" className=" text-4xl">
               <FaTelegram fill="#000" />
             </a>
           </div>

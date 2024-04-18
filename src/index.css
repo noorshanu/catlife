@@ -46,7 +46,7 @@
 
   html,
   body {
-    @apply bg-[#9bbf39] text-white  ;
+    @apply bg-[#f0f0f0] text-white  ;
   }
 
   .container-wrapper {
@@ -60,10 +60,11 @@
 
 
 .bg-main{
-  background-image: url(/images/backbg.jpg);
+  /* background-image: url(/images/backbg.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
   /* background-position: center ; */
+  background-color: #f0f0f0;
 }
 
 .big-info__inner {
