@@ -21,21 +21,21 @@ const Intro = () => {
           </div>
           <div className=" max-w-xl">
             <p className="font-semibold font-groot-one text-xl sm:text-3xl text-black  py-2">
-              Welcome to the wild world of Cat's Life!
+              Welcome to the wild world of NubCat!
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-one text-black  font-medium">
-              In the meme jungle, Cat's Life reigns supreme with his adorable
-              charm and endless memes! With his trusty sidekick, Cat's Life
+              In the meme jungle, NubCat reigns supreme with his adorable
+              charm and endless memes! With his trusty sidekick, NubCat
               spreads joy and laughter wherever he goes, making Solana brighter
               with every wag of his tail.
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one  text-black font-medium">
-            Cat's Life isn't your average meme coin - he's the next viral meme! Known for his cuteness, unique features, and explosive growth, Cat's Life offers more than just memes. 
+            NubCat isn't your average meme coin - he's the next viral meme! Known for his cuteness, unique features, and explosive growth, NubCat offers more than just memes. 
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one text-black font-medium">
-            From his hilarious antics to his groundbreaking Cat's Life Game and pet store, Cat's Life brings excitement and adventure to the crypto world! 
+            From his hilarious antics to his groundbreaking NubCat Game and pet store, NubCat brings excitement and adventure to the crypto world! 
             </h1>
           </div>
         </div>

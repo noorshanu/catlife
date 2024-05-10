@@ -3,7 +3,7 @@ function Hero() {
     <section className=" pt-8  pb-[4rem]">
       <div className="container-wrapper">
         <h1 className=" font-groot-one text-2xl text-center sm:text-5xl font-semibold my-4 max-w-full sm:max-w-5xl mx-auto text-[#000]">
-        Cat's Life is all about Memes, Cuteness, and Solana Jungle Adventure!
+        NubCat is all about Memes, Cuteness, and Solana Jungle Adventure!
         </h1>
         <div className="relative z-50">
           <div className=" flex justify-between flex-col sm:flex-row items-center ">
