@@ -43,39 +43,21 @@ function Navbar() {
           </div>
 
           <ul className="flex max-lg:flex-col lg:items-center max-lg:space-y-2 lg:space-x-6">
-            {/* <li>
-              <a href="/" className=" ">
-                Home
-              </a>
-            </li>
-
-            <li>
-              <a href="/"> How to buy</a>
-            </li>
-            <li>
-              <a href="/" className=" ">
-                FAQs
-              </a>
-            </li> */}
+           
           </ul>
         </div>
 
         <div className="flex items-center space-x-6">
           <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-            <a target="_blank" href="https://x.com/catslifesol/" className=" text-4xl">
+            <a target="_blank" href="https://twitter.com/nub_cat1" className=" text-4xl">
               <FaTwitter fill="#000" />
             </a>
-            <a target="_blank" href="https://t.me/catslifeso" className=" text-4xl">
+            <a target="_blank" href="https://t.me/nubcatso" className=" text-4xl">
               <FaTelegram fill="#000" />
             </a>
           </div>
 
-          {/* <button
-            className="text-2xl lg:hidden"
-            onClick={() => setSidebarVisibility(true)}
-          >
-            <IoMenu />
-          </button> */}
+        
         </div>
       </div>
     </nav>
