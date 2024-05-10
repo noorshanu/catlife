@@ -49,7 +49,7 @@ function Hero() {
           <a
             href="https://t.me/catslifeso"
             target="_blank"
-            className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#ff8ba5] shadow-lg shadow-black/40 text-white  font-bold  border-[#68c513] border-2"
+            className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#ff8ba5] shadow-lg shadow-black/40 text-black  font-bold  border-[#bc1d5c] border-2"
           >
             join telegram
           </a>
@@ -57,7 +57,7 @@ function Hero() {
           <a
             href="https://www.dextools.io/app/en/solana/pair-explorer/EzJYQmRbSHqxtnRhaQemeKgnGFx7wgmStuDBd7kALhLd?t=1713443962917"
             target="_blank"
-            className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#ff8ba5] shadow-lg shadow-black/40 text-white  font-bold  border-[#68c513] border-2"
+            className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#ff8ba5] shadow-lg shadow-black/40 text-black  font-bold  border-[#bc1d5c] border-2"
           >
             DEXTOOLS
           </a>
